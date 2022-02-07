@@ -1,0 +1,9 @@
+docker run -d -p 8080:80 -v "C:\Users\u6311\Desktop\files\Programing\Design Office CLIP\2022_works\202202_bisai\code\code1/:/usr/local/apache2/htdocs/" httpd
+
+≪納品前確認≫
+noindex を削除する
+
+
+
+≪納品後確認≫
+xseverからフォルダ削除
